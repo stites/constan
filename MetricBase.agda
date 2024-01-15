@@ -1,7 +1,6 @@
 -- Metric spaces definitions and results.
 -- Work on this file was discontinued when I realized I would need square roots to define the
 -- Cauchy-Schwarz inequality, which would, in turn, require calculus to define.
-
 {-# OPTIONS --without-K --safe #-}
 
 module MetricBase where
